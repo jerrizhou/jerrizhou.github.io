@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Jiarui(Jerri) Zhou's Github Page
+```markdown
 
-You can use the [editor on GitHub](https://github.com/jerrizhou/jerrizhou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Link](url) and ![Image](src)
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Jerri, a 1st year Master Science in Business Analytics student. In this page, I listed the projects that I did for my classes. Please feel free to click below and see them.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 
+[LinkedIn](https://www.linkedin.com/in/jiarui-zhou/) 
+![Image](https://github.com/jerrizhou/jerrizhou.github.io/blob/main/WeChat%20Image_20201014133420.jpg?raw=true)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Business Analytics project in Python](https://github.com/jerrizhou/project).
