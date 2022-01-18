@@ -1,7 +1,5 @@
 ## Welcome to Jiarui(Jerri) Zhou's Github Page
 
-[Link](url) and ![Image](src)
-
 
 My name is Jerri, a 1st year Master Science in Business Analytics student. In this page, I listed the projects that I did for my classes. Please feel free to click below and see them.
 
