@@ -1,5 +1,5 @@
 # Welcome to Jerri's Github Page
-<img src="https://github.com/jerrizhou/jerrizhou.github.io/blob/main/images/WeChat%20Image_20201014133420.jpg" width="200">
+<img src="https://github.com/jerrizhou/jerrizhou.github.io/blob/main/images/WeChat%20Image_20201014133420.jpg">
 
 
 ### Please feel free to check my following social media pages:
