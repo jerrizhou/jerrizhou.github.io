@@ -6,7 +6,7 @@
 ### In this page, I listed the projects that I did for my classes. Please feel free to click below and see them :)
 
 
-![Image](https://github.com/jerrizhou/jerrizhou.github.io/blob/main/WeChat%20Image_20201014133420.jpg?raw=true)
+![Image](https://github.com/jerrizhou/jerrizhou.github.io/blob/main/LinkedIn.jpg)
 
 
 [Business Analytics project in Python](https://github.com/jerrizhou/project).
