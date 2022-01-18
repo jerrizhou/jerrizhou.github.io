@@ -17,4 +17,4 @@
 
 # Projects:
 
-[Business Analytics project in Python](https://github.com/jerrizhou/project).
+[Marketing Analytics project in Python](https://github.com/jerrizhou/Marketing-Analytics-IMDB).
